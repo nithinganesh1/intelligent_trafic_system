@@ -1,0 +1,7 @@
+path: ../  # Path to main dataset directory
+
+train: images/train  # Path to training images
+val: images/val  # Path to validation images
+
+names:
+    0: vehicle
